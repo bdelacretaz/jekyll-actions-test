@@ -1,4 +1,6 @@
-This is index.md
-----
+---
+layout: page
+title: Testing Jekyll Actions
+---
 
-As a minimal test.
+Is this thing on?
